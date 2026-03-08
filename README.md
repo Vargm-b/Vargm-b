@@ -43,13 +43,12 @@ Computer Engineering student at <b>Universidad Mayor de San Simón</b>.<br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code">
 </p>
 
+<!--
 <h2>Competitive programming</h2>
 <p>
   <a href="https://codeforces.com/profile/Vargm"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 </p>
-
 <h2>Connect with me</h2>
-
 <p>
 <a href="https://t.me/BVargm">
 <img src="https://img.icons8.com/color/48/telegram-app.png" width="40"/>
@@ -59,3 +58,4 @@ Computer Engineering student at <b>Universidad Mayor de San Simón</b>.<br>
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 </p>
+-->
