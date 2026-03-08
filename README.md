@@ -41,6 +41,7 @@ Computer Engineering student at <b>Universidad Mayor de San Simón</b>.<br>
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU3cGt0YTh2aGM1OXB2azAxdjFreHB5eG1tb3ZoOHFjczRpaWtqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVas8IkFyvs4eKP3Qy/giphy.gif" alt="Totoro says "Bye" width="180" style="float" align ="right">
 </p>
 
 <!--
@@ -53,7 +54,7 @@ Computer Engineering student at <b>Universidad Mayor de San Simón</b>.<br>
 <a href="https://t.me/BVargm">
 <img src="https://img.icons8.com/color/48/telegram-app.png" width="40"/>
 </a>
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU3cGt0YTh2aGM1OXB2azAxdjFreHB5eG1tb3ZoOHFjczRpaWtqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVas8IkFyvs4eKP3Qy/giphy.gif" alt="Totoro says "Bye" width="180" style="float" align ="right">
+ 
 <a href="mailto:skilebrendavargasmollo@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
