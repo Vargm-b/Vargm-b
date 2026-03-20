@@ -26,7 +26,7 @@ Computer Engineering student at <b>Universidad Mayor de San Simón</b>.<br>
 
 <br><br>
 
-<h2> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ4OTBrd3hmeTluNWV2c283azNkMHFsaW13ZG80azhyaWsxcTdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ifeLQvPtmYjvh2BxFC/giphy.gif" width = "45"/> My skills</h2>
+<h2>My skills</h2>
 <h3>🛠 Technologies</h3>
 <p>
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java">
